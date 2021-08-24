@@ -1,6 +1,6 @@
 ## Hey 👋 everyone!
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssynowiec&layout=compact">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssynowiec&layout=compact&theme=dark">
 
 ### 👨‍💻I’m coding in:
 
