@@ -11,6 +11,11 @@
 
 </br>
 
+### ⌨ What am I doing?
+
+-   Websites 🌐
+-   Discord Bot's 🤖
+
 ### 💻 In my work i use:
 
 ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
