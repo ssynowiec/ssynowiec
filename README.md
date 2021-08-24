@@ -21,4 +21,4 @@
 ![image](https://img.shields.io/badge/NVIDIA-GTX1660_SUPER-76B900?style=for-the-badge&logo=nvidia&logoColor=white) </br>
 ![image](https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white) </br>
 
-###### All projects are made with🧡
+<h6 align=center> All projects are made with🧡</h6>
