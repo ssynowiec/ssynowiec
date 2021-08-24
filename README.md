@@ -1,5 +1,3 @@
-## Hey 👋 everyone!
-
 <img src="https://github.com/ssynowiec/ssynowiec/blob/main/Hey%F0%9F%91%8B%20I%E2%80%99m%20Stanislaw.png">
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssynowiec&layout=compact&theme=dark">
