@@ -30,11 +30,6 @@
 ![image](https://img.shields.io/badge/NVIDIA-GTX1660_SUPER-76B900?style=for-the-badge&logo=nvidia&logoColor=white) </br>
 ![image](https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white) </br>
 
-### 📕
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
 <h6 align=center> All projects are made with❤</h6>
 
 <h6 align=center> Photo by <a href="https://unsplash.com/@avirichards?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Avi Richards</a> on <a href="https://unsplash.com/photos/Z3ownETsdNQ">Unsplash</a></h6>
