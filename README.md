@@ -15,7 +15,7 @@
 
 ### 📚 I'm starting learning:
 
--   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/240px-React-icon.svg.png" alt="React logo" style="width:15px;"/> React
+-   [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/240px-React-icon.svg.png" alt="React logo" style="width:15px;"/>](https://reactjs.org/) React
 
 ### ⌨ What am I doing?
 
