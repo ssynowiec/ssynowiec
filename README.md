@@ -4,13 +4,13 @@
 
 ### 👨‍💻 I’m coding in:
 
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/-SASS-%23CF649A?style=for-the-badge&logo=sass&logoColor=white)
-![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![image](https://img.shields.io/badge/TYPESCRIPT-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
-![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![image](https://img.shields.io/badge/-Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+[![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pl/docs/Learn/Getting_started_with_the_web/HTML_basics)
+[![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pl/docs/Learn/Getting_started_with_the_web/CSS_basics)
+[![image](https://img.shields.io/badge/-SASS-%23CF649A?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
+[![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pl/docs/Web/JavaScript)
+[![image](https://img.shields.io/badge/TYPESCRIPT-3178c6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![image](https://img.shields.io/badge/-Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
 </br>
 
@@ -34,9 +34,9 @@
 
 ### 🖥 My workspace:
 
-![image](https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white) </br>
-![image](https://img.shields.io/badge/NVIDIA-GTX1660_SUPER-76B900?style=for-the-badge&logo=nvidia&logoColor=white) </br>
-![image](https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white) </br>
+[![image](https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://ryzen.gg/pl/) </br>
+[![image](https://img.shields.io/badge/NVIDIA-GTX1660_SUPER-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.nvidia.com/pl-pl/) </br>
+[![image](https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/pl-pl/windows) </br>
 
 <h6 align=center> All projects are made with❤</h6>
 
