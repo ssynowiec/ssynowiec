@@ -2,13 +2,14 @@
 
 ### Who am I?
 
-> Hi 👋 I'm Stanisław. I'm 20 years old. I am currently studying IT. In my free time I create projects for my portfolio. I am odd-job at [Express Event](https://express-event.pl) as an event technician.
+> Hi 👋 I'm Stanisław. I'm 21 years old. I am currently studying IT (Mobile Application
+Engineer). Since one year I'm [meet.js Wrocław](https://github.com/meetjspl) organizer. In my free time I create projects for my portfolio. I am odd-job at [Express Event](https://express-event.pl) as an event technician and [WebWrite](https://webwrite.pl) as webmaster.
 
 ### ✉️ Contact with me
 [![Gmail](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stasyn1410@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ssynowiecpl/)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssynowiec&layout=compact&theme=dark">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssynowiec&layout=compact&theme=dark"/>
 
 ### 👨‍💻 I’m coding in:
 
