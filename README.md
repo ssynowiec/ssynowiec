@@ -2,10 +2,11 @@
 
 ### Who am I?
 
-> Hi 👋 I'm Stanisław. I'm 21 years old. I am currently studying IT (Mobile Application
-Engineer). Since one year I'm [meet.js Wrocław](https://github.com/meetjspl) organizer. In my free time I create projects for my portfolio. I am odd-job at [Express Event](https://express-event.pl) as an event technician and [WebWrite](https://webwrite.pl) as webmaster.
+> Hi 👋 I'm Stanisław. I'm 22 years old. I am currently studying IT (Mobile Application
+> Engineer). Owner of a sole proprietorship [ssynowiec.pl](https://github.com/ssynowiec-pl). Since two years I'm [meet.js Wrocław](https://github.com/meetjspl) organizer. In my free time I create projects for my portfolio. I am odd-job at [Express Event](https://express-event.pl) as an event technician and [WebWrite](https://webwrite.pl) as webmaster.
 
 ### ✉️ Contact with me
+
 [![Gmail](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stasyn1410@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ssynowiecpl/)
 
@@ -22,22 +23,15 @@ Engineer). Since one year I'm [meet.js Wrocław](https://github.com/meetjspl) or
 
 </br>
 
-### ⌨ What am I doing?
-
--   Websites 🌐
--   Discord Bot's 🤖
-
 ### Frameworks and libraries that I use
+
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
 [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![JavaScript](https://img.shields.io/badge/Discord.JS-4752c4?style=for-the-badge&logo=javascript&logoColor=white)](https://discord.js.org/)
-
+[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=white&color=0CA5E9)](https://tailwindcss.com/)
+[![Shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcn/ui&logoColor=white)](https://ui.shadcn.com/)
 
 ### 💻 In my work i use:
 
-[![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://www.google.com/intl/pl_pl/chrome/)
-[![Firefox Developer](https://img.shields.io/badge/Firefox%20Developer%20Edition-0250bb?style=for-the-badge&logo=Firefox&logoColor=white)](https://www.mozilla.org/pl/firefox/developer/)
-[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)](https://www.jetbrains.com/webstorm/)
 [![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)](https://prettier.io/)
 [![ESLint](https://img.shields.io/badge/ESLint-4b32c3?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org/)
